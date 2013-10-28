@@ -1,6 +1,6 @@
 # Elementary OS: essential kit
 
-A kit of essentials tools to equip your Elementary OS after installation. Useful for those who are migrating from Windows to Elementary or wants to migrate someone. :-) 
+A kit of essential tools to equip your Elementary OS after installation. Useful for those who are migrating from Windows to Elementary or wants to migrate someone. :-) 
 
 All software recommended here have a installation tutorial **via Terminal**, for objectivity. However, if you want, the software is also available in **Software Center**.
 
