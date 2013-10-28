@@ -25,4 +25,4 @@ Primordial para o gerenciamento de tarefas do sistema operacional em um panorama
 2. `sudo apt-get update`
 3. `sudo apt-get install libreoffice`
 
-#### [Outras opções](http://pt-br.libreoffice.org/baixe-ja/)
+#### [Outras opções de download](http://pt-br.libreoffice.org/baixe-ja/)
