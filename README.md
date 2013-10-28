@@ -27,7 +27,7 @@ All software recommended here have a installation tutorial **via Terminal**, for
 
 #### [Other ways](http://www.libreoffice.org/download)
 
-## 3. Disk utility
+## 3. Disk manager
 **Disks**
 ![Disks showing data](http://screencloud.net//img/screenshots/032bf3e88c0e69cc6219b30faf5452cf.png)
 
