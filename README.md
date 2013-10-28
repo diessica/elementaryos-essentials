@@ -26,3 +26,10 @@ All software recommended here have a installation tutorial **via Terminal**, for
 3. `sudo apt-get install libreoffice`
 
 #### [Other ways](http://www.libreoffice.org/download)
+
+## 3. Disk utility
+**Disks**
+![Disks showing data](http://screencloud.net//img/screenshots/032bf3e88c0e69cc6219b30faf5452cf.png)
+
+### Installation
+1. `sudo apt-get install gnome-disk-utility`
