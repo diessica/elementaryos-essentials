@@ -77,7 +77,11 @@ All software recommended here have a installation tutorial **via Terminal**, for
 
 -- 
 
-## 10. BitTorrent client
-**qBitTorrent**
+## 10. Torrent client
+**Deluge**
 
+### Alternatives
+* [qBitTorrent](#)
+* [Transmission](#)
+* 
 -- 
