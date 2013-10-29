@@ -24,10 +24,6 @@ All software recommended here have a installation tutorial **via Terminal**, for
 
 ![System Monitor in action](http://screencloud.net/img/screenshots/07804f1e8ec0aece79f8c4026caba171.png)
 
-### Alternatives
-* [SoftMaker Office](#)
-* [Google Docs](#)
-
 ### Installation
 1. `sudo apt-get install gnome-system-monitor`
 
@@ -48,20 +44,20 @@ All software recommended here have a installation tutorial **via Terminal**, for
 * [SoftMaker Office](#)
 * [Google Docs](#)
 
--- 
-
 ## 3. System and disk cleaner
 **BleachBit**
 
 ### Installation
 1. `sudo apt-get install bleachbit`
-
--- 
+ 
 
 ## 4. CD/DVD burner
 **Brasero**
 
--- 
+### Installation
+1. `sudo add-apt-repository ppa:renbag/ppa`
+2. `sudo apt-get update`
+3. `sudo apt-get install brasero`
 
 ## 5. Disk manager
 **Disks**
@@ -70,16 +66,12 @@ All software recommended here have a installation tutorial **via Terminal**, for
 ### Installation
 1. `sudo apt-get install gnome-disk-utility`
 
--- 
-
 ## 6. Virtual drive emulator
 **AcetoneISO**
 
 ### Installation
 1. `sudo apt-get install kommander p7zip` - **kommander** will be installed additionally. 
 2. `sudo apt-get install AcetoneISO-6.7.deb`
-
--- 
 
 ## 7. Graphic editor
 **GIMP**
@@ -89,8 +81,6 @@ All software recommended here have a installation tutorial **via Terminal**, for
 2. `sudo apt-get update`
 3. `sudo apt-get install gimp`
 
--- 
-
 ## 8. Video editor
 **PiTiVi**
 
@@ -99,8 +89,6 @@ All software recommended here have a installation tutorial **via Terminal**, for
 
 ### Alternatives
 * [OpenShot](#)
-
--- 
 
 ## 9. Antivirus
 **Bitdefender**
@@ -115,8 +103,6 @@ All software recommended here have a installation tutorial **via Terminal**, for
 * [ESET](#)
 * [ClamAV](#)
 
--- 
-
 ## 10. Torrent client
 **Deluge**
 
@@ -128,14 +114,13 @@ All software recommended here have a installation tutorial **via Terminal**, for
 * [Transmission](#)
 
 ## 11. Backup
-**luckyBackup**
+**LuckyBackup**
 
 ### Installation
 1. `sudo apt-get install luckybackup`
 
 ### Alternatives
 * [Deja-Dup](https://launchpad.net/deja-dup)
-
 
 ## Installation problems?
 Before installation, enter in your Terminal any of the following commands:
