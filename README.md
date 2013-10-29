@@ -30,7 +30,7 @@ All software recommended here have a installation tutorial **via Terminal**, for
 ## 2. Office suite
 **Libre Office**
 
-![Libre Office 3](http://screencloud.net//img/screenshots/a0c9e0ee88c7dd193fab5244e8fa320f.png)
+![Libre Office 3](http://screencloud.net//img/screenshots/96a09927db99b0cdebc3b15a7735f387.png)
 
 ### Alternatives
 * [One alternative](#)
