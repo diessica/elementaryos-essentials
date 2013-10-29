@@ -37,7 +37,7 @@ All software recommended here have a installation tutorial **via Terminal**, for
 -- 
 
 ## 4. CD/DVD burner
-**.**
+**Brasero**
 
 -- 
 
@@ -61,14 +61,19 @@ All software recommended here have a installation tutorial **via Terminal**, for
 -- 
 
 ## 8. Video editor
-**.**
+**PiTiVi**
+
+### Alternatives
+* [OpenShot](#)
 
 -- 
 
 ## 9. Antivirus
+**.**
 
 -- 
 
 ## 10. BitTorrent client
+**qBitTorrent**
 
 -- 
