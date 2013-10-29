@@ -69,7 +69,11 @@ All software recommended here have a installation tutorial **via Terminal**, for
 -- 
 
 ## 9. Antivirus
-**.**
+**ESET**
+
+### Alternatives
+* [Bitdefender](#)
+* [ClamAV](#)
 
 -- 
 
