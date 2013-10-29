@@ -94,10 +94,11 @@ All software recommended here have a installation tutorial **via Terminal**, for
 **Bitdefender**
 
 ### Installation
-1. `wget -O- -q http://download.bitdefender.com/repos/deb/bd.key.asc | sudo apt-key add -`
-2. `sudo sh -c 'echo "deb http://download.bitdefender.com/repos/deb/ bitdefender non-free" >> /etc/apt/sources.list'`
-3. `sudo apt-get update`
-4. `sudo apt-get  install bitdefender-scanner-gui`
+1. `wget -O- -q http://download.bitdefender.com/repos/deb/bd.key.asc`
+2. `sudo apt-key add -`
+3. `sudo sh -c 'echo "deb http://download.bitdefender.com/repos/deb/ bitdefender non-free" >> /etc/apt/sources.list'`
+4. `sudo apt-get update`
+5. `sudo apt-get  install bitdefender-scanner-gui`
 
 ### Alternatives
 * [ESET](#)
