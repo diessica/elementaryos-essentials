@@ -8,16 +8,16 @@ All software recommended here have a installation tutorial **via Terminal**, for
 * [Português](https://github.com/diessicode/elementaryos-essentials/blob/master/translations/pt-br/README.md)
 
 ## Kit
-1. System monitor
-2. Office suite
-3. System and disk cleaner
-4. CD/DVD burner
-5. Disk manager
-6. Virtual drive emulator
-7. Graphic editor
-8. Video editor
-9. Antivirus
-10. Torrent client
+1. [System monitor](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#1-system-monitor)
+2. [Office suite](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#2-office-suite)
+3. [System and disk cleaner](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#3-system-and-disk-cleaner)
+4. [CD/DVD burner](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#4-cddvd-burner)
+5. [Disk manager](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#5-disk-manager)
+6. [Virtual drive emulator](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#6-virtual-drive-emulator)
+7. [Graphic editor](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#7-graphic-editor)
+8. [Video editor](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#8-video-editor)
+9. [Antivirus](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#9-antivirus)
+10. [Torrent client](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#10-torrent-client)
 
 ## 1. System monitor
 **GNOME System Monitor**
