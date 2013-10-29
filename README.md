@@ -32,10 +32,6 @@ All software recommended here have a installation tutorial **via Terminal**, for
 
 ![Libre Office 3](http://screencloud.net//img/screenshots/96a09927db99b0cdebc3b15a7735f387.png)
 
-### Alternatives
-* [One alternative](#)
-* [One alternative](#)
-
 ### Installation
 #### Terminal
 1. `sudo add-apt-repository ppa:libreoffice/ppa`
@@ -43,6 +39,10 @@ All software recommended here have a installation tutorial **via Terminal**, for
 3. `sudo apt-get install libreoffice`
 
 #### [Other ways](http://www.libreoffice.org/download)
+
+### Alternatives
+* [One alternative](#)
+* [One alternative](#)
 
 -- 
 
