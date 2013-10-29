@@ -19,10 +19,14 @@ All software recommended here have a installation tutorial **via Terminal**, for
 9. [Antivirus](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#9-antivirus)
 10. [Torrent client](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#10-torrent-client)
 
-## 1. System monitor
+## 1. System monitor and task manager
 **GNOME System Monitor**
 
-![System Monitor in action](http://screencloud.net//img/screenshots/4e873dd8fae6b94a4c0050ba99d288db.png)
+![System Monitor in action](http://screencloud.net/img/screenshots/07804f1e8ec0aece79f8c4026caba171.png)
+
+### Alternatives
+* [SoftMaker Office](#)
+* [Google Docs](#)
 
 ### Installation
 1. `sudo apt-get install gnome-system-monitor`
@@ -41,13 +45,16 @@ All software recommended here have a installation tutorial **via Terminal**, for
 #### [Other ways](http://www.libreoffice.org/download)
 
 ### Alternatives
-* [One alternative](#)
-* [One alternative](#)
+* [SoftMaker Office](#)
+* [Google Docs](#)
 
 -- 
 
 ## 3. System and disk cleaner
 **BleachBit**
+
+### Installation
+1. `sudo apt-get install bleachbit`
 
 -- 
 
@@ -58,7 +65,7 @@ All software recommended here have a installation tutorial **via Terminal**, for
 
 ## 5. Disk manager
 **Disks**
-![Disks showing data](http://screencloud.net//img/screenshots/032bf3e88c0e69cc6219b30faf5452cf.png)
+![Disks showing data](http://screencloud.net/img/screenshots/ed6538b6aeda987de8cac06760198ab1.png)
 
 ### Installation
 1. `sudo apt-get install gnome-disk-utility`
@@ -68,15 +75,27 @@ All software recommended here have a installation tutorial **via Terminal**, for
 ## 6. Virtual drive emulator
 **AcetoneISO**
 
+### Installation
+1. `sudo apt-get install kommander p7zip` - **kommander** will be installed additionally. 
+2. `sudo apt-get install AcetoneISO-6.7.deb`
+
 -- 
 
 ## 7. Graphic editor
 **GIMP**
 
+### Installation
+1. `sudo add-apt-repository ppa:otto-kesselgulasch/gimp`
+2. `sudo apt-get update`
+3. `sudo apt-get install gimp`
+
 -- 
 
 ## 8. Video editor
 **PiTiVi**
+
+### Installation
+1. `sudo apt-get install pitivi`
 
 ### Alternatives
 * [OpenShot](#)
@@ -84,10 +103,16 @@ All software recommended here have a installation tutorial **via Terminal**, for
 -- 
 
 ## 9. Antivirus
-**ESET**
+**Bitdefender**
+
+### Installation
+1. `wget -O- -q http://download.bitdefender.com/repos/deb/bd.key.asc | sudo apt-key add -`
+2. `sudo sh -c 'echo "deb http://download.bitdefender.com/repos/deb/ bitdefender non-free" >> /etc/apt/sources.list'`
+3. `sudo apt-get update`
+4. `sudo apt-get  install bitdefender-scanner-gui`
 
 ### Alternatives
-* [Bitdefender](#)
+* [ESET](#)
 * [ClamAV](#)
 
 -- 
@@ -95,12 +120,28 @@ All software recommended here have a installation tutorial **via Terminal**, for
 ## 10. Torrent client
 **Deluge**
 
+### Installation
+1. `sudo apt-get install deluge`
+
 ### Alternatives
 * [qBitTorrent](#)
 * [Transmission](#)
 
 ## 11. Backup
-**.**
+**luckyBackup**
+
+### Installation
+1. `sudo apt-get install luckybackup`
+
+### Alternatives
+* [Deja-Dup](https://launchpad.net/deja-dup)
+
+
+## Installation problems?
+Before installation, enter in your Terminal any of the following commands:
+
+1. `sudo apt-get update` → Update the **package list**.
+2.  `sudo apt-get dist-upgrade` → Upgrade your **operational system**.
 
 ## Freedom thanks you!
 Thanks for contributing to free software. **GNU/Linux** are really awesome!
