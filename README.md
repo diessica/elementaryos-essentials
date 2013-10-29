@@ -4,6 +4,21 @@ A kit of essential tools to equip your Elementary OS after installation. Useful 
 
 All software recommended here have a installation tutorial **via Terminal**, for objectivity. However, if you want, the software is also available in **Software Center**.
 
+## Language
+* [Português](https://github.com/diessicode/elementaryos-essentials/blob/master/translations/pt-br/README.md)
+
+## Kit
+1. System monitor
+2. Office suite
+3. System and disk cleaner
+4. CD/DVD burner
+5. Disk manager
+6. Virtual drive emulator
+7. Graphic editor
+8. Video editor
+9. Antivirus
+10. Torrent client
+
 ## 1. System monitor
 **GNOME System Monitor**
 
@@ -83,5 +98,6 @@ All software recommended here have a installation tutorial **via Terminal**, for
 ### Alternatives
 * [qBitTorrent](#)
 * [Transmission](#)
-* 
--- 
+
+## Freedom thanks you!
+Thanks for contributing to free software. **GNU/Linux** are really awesome!
