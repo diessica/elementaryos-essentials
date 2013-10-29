@@ -9,7 +9,6 @@ All software recommended here have a installation tutorial **via Terminal**, for
 
 ![System Monitor in action](http://screencloud.net//img/screenshots/4e873dd8fae6b94a4c0050ba99d288db.png)
 
-
 ### Installation
 1. `sudo apt-get install gnome-system-monitor`
 
@@ -18,6 +17,9 @@ All software recommended here have a installation tutorial **via Terminal**, for
 
 ![Libre Office 3](http://screencloud.net//img/screenshots/a0c9e0ee88c7dd193fab5244e8fa320f.png)
 
+### Alternatives
+* [One alternative](#)
+* [One alternative](#)
 
 ### Installation
 #### Terminal
@@ -27,9 +29,46 @@ All software recommended here have a installation tutorial **via Terminal**, for
 
 #### [Other ways](http://www.libreoffice.org/download)
 
-## 3. Disk manager
+-- 
+
+## 3. System and disk cleaner
+**BleachBit**
+
+-- 
+
+## 4. CD/DVD burner
+**.**
+
+-- 
+
+## 5. Disk manager
 **Disks**
 ![Disks showing data](http://screencloud.net//img/screenshots/032bf3e88c0e69cc6219b30faf5452cf.png)
 
 ### Installation
 1. `sudo apt-get install gnome-disk-utility`
+
+-- 
+
+## 6. Virtual drive emulator
+**AcetoneISO**
+
+-- 
+
+## 7. Graphic editor
+**GIMP**
+
+-- 
+
+## 8. Video editor
+**.**
+
+-- 
+
+## 9. Antivirus
+
+-- 
+
+## 10. BitTorrent client
+
+-- 
