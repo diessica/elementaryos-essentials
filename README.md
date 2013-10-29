@@ -99,5 +99,8 @@ All software recommended here have a installation tutorial **via Terminal**, for
 * [qBitTorrent](#)
 * [Transmission](#)
 
+## 11. Backup
+**.**
+
 ## Freedom thanks you!
 Thanks for contributing to free software. **GNU/Linux** are really awesome!
