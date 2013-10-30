@@ -3,6 +3,9 @@
 echo "Adding repositories..."
 sudo add-apt-repository ppa:otto-kesselgulasch/gimp
 
+echo "Download and installd dependencies..."
+sudo apt-get install kommander p7zip
+
 echo "Updating repositories..."
 sudo apt-get update
 
