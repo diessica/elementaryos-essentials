@@ -22,7 +22,7 @@ Help spread the FREE SOFTWARE!
 10. [Torrent client](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#10-torrent-client)
 
 ## 1. System monitor and task manager
-**GNOME System Monitor**
+**GNOME System Monitor** is absolutely essential for OS tasks management.
 
 ![System Monitor in action](http://screencloud.net/img/screenshots/07804f1e8ec0aece79f8c4026caba171.png)
 
@@ -30,7 +30,7 @@ Help spread the FREE SOFTWARE!
 1. `sudo apt-get install gnome-system-monitor`
 
 ## 2. Office suite
-**Libre Office**
+**Libre Office** is a office suite (text, spreadsheet, presentation, drawing, database, formula) for personal or professional use available in many languages.
 
 ![Libre Office 3](http://screencloud.net//img/screenshots/96a09927db99b0cdebc3b15a7735f387.png)
 
@@ -54,7 +54,8 @@ Help spread the FREE SOFTWARE!
  
 
 ## 4. CD/DVD burner
-**Brasero**
+**Brasero** is the most complete and popular solution for burning discs among Linux users. 
+![Brasero](http://screencloud.net/img/screenshots/bc1f60cfba16cbabc6813d532522c125.png)
 
 ### Installation
 1. `sudo add-apt-repository ppa:renbag/ppa`
@@ -85,6 +86,7 @@ Help spread the FREE SOFTWARE!
 
 ## 8. Video editor
 **PiTiVi**
+![PiTiVi editing a project](http://screencloud.net/img/screenshots/5767da0992f9aded922febd026f0add9.png)
 
 ### Installation
 1. `sudo apt-get install pitivi`
