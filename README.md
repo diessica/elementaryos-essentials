@@ -18,6 +18,7 @@ cd eos-essentials
 ### wget
 ```bash
 wget "https://raw.github.com/diessicode/elementaryos-essentials/master/kit.sh"
+chmod +x kit.sh
 ./kit.sh
 ```
 
