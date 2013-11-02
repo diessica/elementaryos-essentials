@@ -1,13 +1,25 @@
 # Elementary OS essentials
 
-A kit of essential packages for users who want an easy and objective experience with Elementary OS - and others Ubuntu-based distros. Useful for those who are migrating from Windows to Elementary or wants to migrate someone. :-) 
+A kit of essential tools for users who want an easy and objective experience with Elementary OS - and others Ubuntu-based distros. Useful for those who are migrating from Windows to Elementary or wants to migrate someone. :-) 
 
-(All software recommended here have a installation tutorial **via Terminal**, for objectivity. However, if you want, the software is also available in **Software Center**.)
-
-Help spread the FREE SOFTWARE!
+(All software recommended here have a installation tutorial **via Terminal**, for objectivity. However, if you want, [most of them] is also available in **Software Center**.)
 
 ## Language
 * [Português](https://github.com/diessicode/elementaryos-essentials/blob/master/translations/pt-br/README.md)
+
+## Install kit
+[Download the kit directly](https://github.com/diessicode/elementaryos-essentials/archive/master.zip), unzip, open Terminal, go to files directory (`cd` command) and type `./kit.sh` to run the shell script that downloads and installs all the kit. You can also do it all **at once** via Terminal, with `git` or `wget`:
+### git
+```bash
+git clone git://github.com/diessicode/elementaryos-essentials.git eos-essentials
+cd eos-essentials
+./kit.sh
+```
+### wget
+```bash
+wget "https://raw.github.com/diessicode/elementaryos-essentials/master/kit.sh"
+./kit.sh
+```
 
 ## Kit
 1. [System monitor](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#1-system-monitor)
@@ -21,6 +33,8 @@ Help spread the FREE SOFTWARE!
 9. [Antivirus](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#9-antivirus)
 10. [Torrent client](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#10-torrent-client)
 11. [Backup](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#11-backup)
+
+---
 
 ## 1. System monitor and task manager
 **GNOME System Monitor** is absolutely essential for OS tasks management.
@@ -132,6 +146,8 @@ Help spread the FREE SOFTWARE!
 
 ### Alternatives
 * [LuckyBackup](https://launchpad.net/deja-dup)
+
+---
 
 ## Installation problems?
 Before installation, enter in your Terminal any of the following commands:
