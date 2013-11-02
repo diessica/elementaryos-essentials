@@ -20,6 +20,7 @@ Help spread the FREE SOFTWARE!
 8. [Video editor](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#8-video-editor)
 9. [Antivirus](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#9-antivirus)
 10. [Torrent client](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#10-torrent-client)
+11. [Backup](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#11-backup)
 
 ## 1. System monitor and task manager
 **GNOME System Monitor** is absolutely essential for OS tasks management.
