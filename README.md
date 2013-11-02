@@ -47,7 +47,9 @@ Help spread the FREE SOFTWARE!
 * [Google Docs](#)
 
 ## 3. System and disk cleaner
-**BleachBit**
+> "**BleachBit** quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and discard junk you didn't know was there." ([Source](http://bleachbit.sourceforge.net/))
+
+![BleachBit in action](http://screencloud.net//img/screenshots/6da0dbdf66f5d471723c131b4763210c.png)
 
 ### Installation
 1. `sudo apt-get install bleachbit`
@@ -78,6 +80,7 @@ Help spread the FREE SOFTWARE!
 
 ## 7. Graphic editor
 **GIMP**
+![GIMP in action](http://screencloud.net/img/screenshots/e1fe5f55de9847b050eae2696684409b.png)
 
 ### Installation
 1. `sudo add-apt-repository ppa:otto-kesselgulasch/gimp`
@@ -110,6 +113,7 @@ Help spread the FREE SOFTWARE!
 
 ## 10. Torrent client
 **Deluge**
+![Deluge downloading](http://screencloud.net/img/screenshots/00e941b41e8ee9cae44192ad7a13d2bf.png)
 
 ### Installation
 1. `sudo apt-get install deluge`
@@ -119,13 +123,14 @@ Help spread the FREE SOFTWARE!
 * [Transmission](#)
 
 ## 11. Backup
-**LuckyBackup**
+**Deja-Dup** is objective, but very complete. As for features, we can highlight: local and remote backups, schedule backups and encryption + compression of data.
 
+![Deja-Dup in action](http://screencloud.net//img/screenshots/664345747c2c059882bf7b00ee185500.png)
 ### Installation
-1. `sudo apt-get install luckybackup`
+1. `sudo apt-get install deja-dup`
 
 ### Alternatives
-* [Deja-Dup](https://launchpad.net/deja-dup)
+* [LuckyBackup](https://launchpad.net/deja-dup)
 
 ## Installation problems?
 Before installation, enter in your Terminal any of the following commands:
