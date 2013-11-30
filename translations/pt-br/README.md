@@ -58,7 +58,7 @@ wget "https://raw.github.com/diessicode/elementaryos-essentials/master/kit.sh"
 #### [Outros métodos](http://www.libreoffice.org/download)
 
 ### Alternativas
-* [SoftMaker Office](#)
+* [WPS Office](http://wps-community.org/)
 * [Google Docs](#)
 
 ## 3. Limpeza do sistema e disco
