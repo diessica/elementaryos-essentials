@@ -59,7 +59,7 @@ chmod +x kit.sh
 #### [Other ways](http://www.libreoffice.org/download)
 
 ### Alternatives
-* [SoftMaker Office](#)
+* [WPS Office](http://wps-community.org/)
 * [Google Docs](#)
 
 ## 3. System and disk cleaner
