@@ -60,7 +60,7 @@ chmod +x kit.sh
 
 ### Alternatives
 * [WPS Office](http://wps-community.org/)
-* [Google Docs](#)
+* [Google Docs](https://docs.google.com/)
 
 ## 3. System and disk cleaner
 > "**BleachBit** quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and discard junk you didn't know was there." ([Source](http://bleachbit.sourceforge.net/))
@@ -111,7 +111,7 @@ chmod +x kit.sh
 1. `sudo apt-get install pitivi`
 
 ### Alternatives
-* [OpenShot](#)
+* [OpenShot](http://www.openshot.org/)
 
 ## 9. Antivirus
 **Bitdefender**
@@ -124,8 +124,8 @@ chmod +x kit.sh
 5. `sudo apt-get  install bitdefender-scanner-gui`
 
 ### Alternatives
-* [ESET](#)
-* [ClamAV](#)
+* [ESET](http://www.eset.com/us/)
+* [ClamAV](http://www.clamav.net/lang/en/)
 
 ## 10. Torrent client
 **Deluge**
@@ -135,7 +135,7 @@ chmod +x kit.sh
 1. `sudo apt-get install deluge`
 
 ### Alternatives
-* [qBitTorrent](#)
+* [qBitTorrent](http://www.qbittorrent.org/)
 * [Transmission](#)
 
 ## 11. Backup
