@@ -136,7 +136,7 @@ chmod +x kit.sh
 
 ### Alternatives
 * [qBitTorrent](http://www.qbittorrent.org/)
-* [Transmission](#)
+* [Transmission](http://www.transmissionbt.com/)
 
 ## 11. Backup
 **Deja-Dup** is objective, but very complete. As for features, we can highlight: local and remote backups, schedule backups and encryption + compression of data.
