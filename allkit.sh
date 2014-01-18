@@ -5,10 +5,6 @@ echo "Adding repositories..."
 sudo add-apt-repository ppa:libreoffice/ppa
 # Brasero
 sudo add-apt-repository ppa:renbag/ppa
-# BitDefender
-wget -O- -q http://download.bitdefender.com/repos/deb/bd.key.asc
-sudo apt-key add -
-sudo sh -c 'echo "deb http://download.bitdefender.com/repos/deb/ bitdefender non-free" >> /etc/apt/sources.list'
 # GIMP
 sudo add-apt-repository ppa:otto-kesselgulasch/gimp
 
@@ -28,7 +24,6 @@ sudo apt-get install gnome-disk-utility
 sudo apt-get install AcetoneISO-6.7.deb
 sudo apt-get install gimp
 sudo apt-get install pitivi
-sudo apt-get install bitdefender-scanner-gui
 sudo apt-get install deluge
 sudo apt-get install deja-dup
 
