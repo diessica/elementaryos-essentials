@@ -24,6 +24,7 @@ sudo apt-get install gnome-system-monitor
 sudo apt-get install libreoffice
 sudo apt-get install bleachbit
 sudo apt-get install brasero
+sudo apt-get install gnome-disk-utility
 sudo apt-get install AcetoneISO-6.7.deb
 sudo apt-get install gimp
 sudo apt-get install pitivi
