@@ -31,9 +31,8 @@ chmod +x kit.sh
 6. [Virtual drive emulator](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#6-virtual-drive-emulator)
 7. [Graphic editor](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#7-graphic-editor)
 8. [Video editor](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#8-video-editor)
-9. [Antivirus](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#9-antivirus)
-10. [Torrent client](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#10-torrent-client)
-11. [Backup](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#11-backup)
+9. [Torrent client](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#9-torrent-client)
+10. [Backup](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#10-backup)
 
 ---
 
@@ -113,21 +112,7 @@ chmod +x kit.sh
 ### Alternatives
 * [OpenShot](http://www.openshot.org/)
 
-## 9. Antivirus
-**Bitdefender**
-
-### Installation
-1. `wget -O- -q http://download.bitdefender.com/repos/deb/bd.key.asc`
-2. `sudo apt-key add -`
-3. `sudo sh -c 'echo "deb http://download.bitdefender.com/repos/deb/ bitdefender non-free" >> /etc/apt/sources.list'`
-4. `sudo apt-get update`
-5. `sudo apt-get  install bitdefender-scanner-gui`
-
-### Alternatives
-* [ESET](http://www.eset.com/us/)
-* [ClamAV](http://www.clamav.net/lang/en/)
-
-## 10. Torrent client
+## 9. Torrent client
 **Deluge**
 ![Deluge downloading](http://screencloud.net/img/screenshots/00e941b41e8ee9cae44192ad7a13d2bf.png)
 
@@ -138,7 +123,7 @@ chmod +x kit.sh
 * [qBitTorrent](http://www.qbittorrent.org/)
 * [Transmission](http://www.transmissionbt.com/)
 
-## 11. Backup
+## 10. Backup
 **Deja-Dup** is objective, but very complete. As for features, we can highlight: local and remote backups, schedule backups and encryption + compression of data.
 
 ![Deja-Dup in action](http://screencloud.net//img/screenshots/664345747c2c059882bf7b00ee185500.png)
