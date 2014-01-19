@@ -1,26 +1,28 @@
 # Elementary OS essentials
 
-A kit of essential tools for users who want an easy and objective experience with Elementary OS - and others Ubuntu-based distros. Useful for those who are migrating from Windows to Elementary or wants to migrate someone. :-) 
+A kit of essential tools for users who want an easy and objective experience with Elementary OS - and other Ubuntu-based distros. Useful for those who are migrating from Windows to Elementary or wants to migrate someone. :-) 
 
-(All software recommended here have a installation tutorial **via Terminal**, for objectivity. However, if you want, [most of them] is also available in **Software Center**.)
+(All software recommended here have a installation guide **via Terminal**, for objectivity. However, if you want, [most of them] is also available in **Software Center**.)
 
 ## Language
 * [Português](https://github.com/diessicode/elementaryos-essentials/blob/master/translations/pt-br/README.md)
 
 ## Install kit
-[Download the kit directly](https://github.com/diessicode/elementaryos-essentials/archive/master.zip), unzip, open Terminal, go to files directory (`cd` command) and type `./kit.sh` to run the shell script that downloads and installs all the kit. You can also do it all **at once** via Terminal, with `git` or `wget`:
-### git
+###### DOWNLOAD
+[Download the kit directly](https://github.com/diessicode/elementaryos-essentials/archive/master.zip) and unzip, or download via **Terminal** using `curl` or `git``.
+
+**curl** → `curl -O https://raw.github.com/diessicode/elementaryos-essentials/master/kit.sh`
+
+**git** → `git clone git://github.com/diessicode/elementaryos-essentials.git`
+
+###### INSTALL
+With `cd` command (in general), go to the folder where `kit.sh` is. After that, run the following commands:
+
 ```bash
-git clone git://github.com/diessicode/elementaryos-essentials.git eos-essentials
-cd eos-essentials
-./kit.sh
+chmod +x kit.sh       # Change the access permissions
+sudo ./kit.sh         # Run the script to install packages
 ```
-### wget
-```bash
-wget "https://raw.github.com/diessicode/elementaryos-essentials/master/kit.sh"
-chmod +x kit.sh
-./kit.sh
-```
+>  `sudo` is required to install packages. [See **kit.sh** file](https://raw.github.com/diessicode/elementaryos-essentials/master/kit.sh).
 
 ## Kit
 1. [System monitor](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#1-system-monitor)
@@ -136,10 +138,9 @@ chmod +x kit.sh
 ---
 
 ## Installation problems?
-Before installation, enter in your Terminal any of the following commands:
 
 1. `sudo apt-get update` → Update the **package list**.
 2.  `sudo apt-get dist-upgrade` → Upgrade your **operational system**.
 
 ## Freedom thanks you!
-Thanks for contributing to free software. **GNU/Linux** are really awesome!
+Thanks for contributing to free software. **GNU/Linux** is really awesome!
