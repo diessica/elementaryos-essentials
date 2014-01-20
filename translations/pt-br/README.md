@@ -8,18 +8,21 @@ Um kit das ferramentas essenciais para usuários que buscam uma experiência fá
 * [English](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md)
 
 ## Instalar kit
-[Baixe o kit diretamente](https://github.com/diessicode/elementaryos-essentials/archive/master.zip), extraia o arquivo, abra o terminal, vá para o diretório de arquivos (comando `cd`) e escreva `./kit.sh` para executar o  shell script responsável por baixar e instalar todo o kit. Você também pode realizar todos esses passos **de uma vez só** via Terminal, com o `git` ou `wget`:
-### git
+###### DOWNLOAD
+[Baixe o kit diretamente](https://github.com/diessicode/elementaryos-essentials/archive/master.zip) e extraia, ou baixe através do **Terminal** usando `curl` ou `git`.
+
+**curl** → `curl -O https://raw.github.com/diessicode/elementaryos-essentials/master/kit.sh`
+
+**git** → `git clone git://github.com/diessicode/elementaryos-essentials.git`
+
+###### INSTALAR
+Com o comando `cd` (geralmente), vá até a página onde `kit.sh` está. Depois, execute os seguintes comandos:
+
 ```bash
-git clone git://github.com/diessicode/elementaryos-essentials.git eos-essentials
-cd eos-essentials
-./kit.sh
+chmod +x kit.sh       # Altera as permissões de acesso
+sudo ./kit.sh         # Executa o script para instalar todos os pacotes
 ```
-### wget
-```bash
-wget "https://raw.github.com/diessicode/elementaryos-essentials/master/kit.sh"
-./kit.sh
-```
+>  `sudo` é necessário para instalar pacotes. [Veja o arquivo **kit.sh**](https://raw.github.com/diessicode/elementaryos-essentials/master/kit.sh).
 
 ## Kit
 1. [System monitor](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#1-system-monitor)
@@ -30,9 +33,8 @@ wget "https://raw.github.com/diessicode/elementaryos-essentials/master/kit.sh"
 6. [Virtual drive emulator](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#6-virtual-drive-emulator)
 7. [Graphic editor](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#7-graphic-editor)
 8. [Video editor](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#8-video-editor)
-9. [Antivirus](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#9-antivirus)
-10. [Torrent client](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#10-torrent-client)
-11. [Backup](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#11-backup)
+9. [Torrent client](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#9-torrent-client)
+10. [Backup](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#10-backup)
 
 ---
 
@@ -64,11 +66,10 @@ wget "https://raw.github.com/diessicode/elementaryos-essentials/master/kit.sh"
 ## 3. Limpeza do sistema e disco
 > "**BleachBit** quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and discard junk you didn't know was there." ([Source](http://bleachbit.sourceforge.net/))
 
-![BleachBit in action](http://screencloud.net//img/screenshots/6da0dbdf66f5d471723c131b4763210c.png)
+![BleachBit em ação](http://screencloud.net//img/screenshots/6da0dbdf66f5d471723c131b4763210c.png)
 
 ### Instalação
 1. `sudo apt-get install bleachbit`
- 
 
 ## 4. Gravação de CD/DVD
 **Brasero** is the most complete and popular solution for burning discs among Linux users. 
@@ -112,21 +113,7 @@ wget "https://raw.github.com/diessicode/elementaryos-essentials/master/kit.sh"
 ### Alternativas
 * [OpenShot](#)
 
-## 9. Antivirus
-**Bitdefender**
-
-### Installation
-1. `wget -O- -q http://download.bitdefender.com/repos/deb/bd.key.asc`
-2. `sudo apt-key add -`
-3. `sudo sh -c 'echo "deb http://download.bitdefender.com/repos/deb/ bitdefender non-free" >> /etc/apt/sources.list'`
-4. `sudo apt-get update`
-5. `sudo apt-get  install bitdefender-scanner-gui`
-
-### Alternativas
-* [ESET](#)
-* [ClamAV](#)
-
-## 10. Cliente Torrent
+## 9. Cliente Torrent
 **Deluge**
 ![Deluge downloading](http://screencloud.net/img/screenshots/00e941b41e8ee9cae44192ad7a13d2bf.png)
 
@@ -137,7 +124,7 @@ wget "https://raw.github.com/diessicode/elementaryos-essentials/master/kit.sh"
 * [qBitTorrent](#)
 * [Transmission](#)
 
-## 11. Backup
+## 10. Backup
 **Deja-Dup** é objetivo, mas muito completo. Quanto aos recursos, pode-se destacar a realização de backups locais ou remotos, o agendamento de backups e a compressão e encriptação de dados. 
 
 ![Deja-Dup in action](http://screencloud.net//img/screenshots/664345747c2c059882bf7b00ee185500.png)
@@ -150,10 +137,8 @@ wget "https://raw.github.com/diessicode/elementaryos-essentials/master/kit.sh"
 ---
 
 ## Problemas na instalação?
-Antes de instalar, execute no Terminal algum dos comandos abaixo:
-
 1. `sudo apt-get update` → Atualiza a **lista de pacotes**.
-2.  `sudo apt-get dist-upgrade` → Upgrade your **operational system**.
+2.  `sudo apt-get dist-upgrade` → Faz upgrade no seu **sistema operacional**.
 
 ## A liberdade agradece!
 A comunidade agradece por contribuir ao software livre. **GNU/Linux** é realmente demais!
