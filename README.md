@@ -9,7 +9,7 @@ A kit of essential tools for users who want an easy and objective experience wit
 
 ## Install kit
 ###### DOWNLOAD
-[Download the kit directly](https://github.com/diessicode/elementaryos-essentials/archive/master.zip) and unzip, or download via **Terminal** using `curl` or `git``.
+[Download the kit directly](https://github.com/diessicode/elementaryos-essentials/archive/master.zip) and unzip, or download via **Terminal** using `curl` or `git`.
 
 **curl** → `curl -O https://raw.github.com/diessicode/elementaryos-essentials/master/kit.sh`
 
