@@ -47,7 +47,7 @@ sudo ./kit.sh         # Executa o script para instalar todos os pacotes
 1. `sudo apt-get install gnome-system-monitor`
 
 ## 2. Suíte de escritório
-**Libre Office** is a office suite (text, spreadsheet, presentation, drawing, database, formula) for personal or professional use available in many languages.
+**Libre Office** é uma suite de escritório para uso pessoal ou profissional disponível em diversas linguagens.
 
 ![Libre Office 3](http://screencloud.net//img/screenshots/96a09927db99b0cdebc3b15a7735f387.png)
 
@@ -72,7 +72,7 @@ sudo ./kit.sh         # Executa o script para instalar todos os pacotes
 1. `sudo apt-get install bleachbit`
 
 ## 4. Gravação de CD/DVD
-**Brasero** is the most complete and popular solution for burning discs among Linux users. 
+**Brasero** é a solução mais completa e popular para gravação de discos entre os usuários Linux.
 ![Brasero](http://screencloud.net/img/screenshots/bc1f60cfba16cbabc6813d532522c125.png)
 
 ### Instalação
