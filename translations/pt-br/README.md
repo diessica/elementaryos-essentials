@@ -25,21 +25,21 @@ sudo ./kit.sh         # Executa o script para instalar todos os pacotes
 >  `sudo` é necessário para instalar pacotes. [Veja o arquivo **kit.sh**](https://raw.github.com/diessicode/elementaryos-essentials/master/kit.sh).
 
 ## Kit
-1. [System monitor](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#1-system-monitor)
-2. [Office suite](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#2-office-suite)
-3. [System and disk cleaner](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#3-system-and-disk-cleaner)
-4. [CD/DVD burner](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#4-cddvd-burner)
-5. [Disk manager](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#5-disk-manager)
-6. [Virtual drive emulator](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#6-virtual-drive-emulator)
-7. [Graphic editor](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#7-graphic-editor)
-8. [Video editor](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#8-video-editor)
-9. [Torrent client](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#9-torrent-client)
+1. [Monitor do sistema](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#1-system-monitor)
+2. [Suíte de escritório](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#2-office-suite)
+3. [Limpeza do sistema e disco](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#3-system-and-disk-cleaner)
+4. [Gravador de CD/DVD](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#4-cddvd-burner)
+5. [Gerenciamento do disco](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#5-disk-manager)
+6. [Emulador de disco virtual](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#6-virtual-drive-emulator)
+7. [Editor gráfico](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#7-graphic-editor)
+8. [Editor de vídeo](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#8-video-editor)
+9. [Cliente Torrent](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#9-torrent-client)
 10. [Backup](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#10-backup)
 
 ---
 
 ## 1. Monitor do sistema e gerenciador de tarefas
-**GNOME System Monitor** is absolutely essential for OS tasks management.
+**GNOME System Monitor** é totalmente essencial para o gerenciamento das tarefas do sistema operacional.
 
 ![System Monitor in action](http://screencloud.net/img/screenshots/07804f1e8ec0aece79f8c4026caba171.png)
 
