@@ -5,15 +5,15 @@ A kit of essential tools for users who want an easy and objective experience wit
 (All software recommended here have a installation guide **via Terminal**, for objectivity. However, if you want, [most of them] is also available in **Software Center**.)
 
 ## Language
-* [Português](https://github.com/diessicode/elementaryos-essentials/blob/master/translations/pt-br/README.md)
+* [Português](https://github.com/diessica/elementaryos-essentials/blob/master/translations/pt-br/README.md)
 
 ## Install kit
 ###### DOWNLOAD
-[Download the kit directly](https://github.com/diessicode/elementaryos-essentials/archive/master.zip) and unzip, or download via **Terminal** using `curl` or `git`.
+[Download the kit directly](https://github.com/diessica/elementaryos-essentials/archive/master.zip) and unzip, or download via **Terminal** using `curl` or `git`.
 
-**curl** → `curl -O https://raw.github.com/diessicode/elementaryos-essentials/master/kit.sh`
+**curl** → `curl -O https://raw.github.com/diessica/elementaryos-essentials/master/kit.sh`
 
-**git** → `git clone git://github.com/diessicode/elementaryos-essentials.git`
+**git** → `git clone git://github.com/diessica/elementaryos-essentials.git`
 
 ###### INSTALL
 With `cd` command (in general), go to the folder where `kit.sh` is. After that, run the following commands:
@@ -25,16 +25,16 @@ sudo ./kit.sh         # Run the script to install packages
 >  `sudo` is required to install packages. [See **kit.sh** file](https://raw.github.com/diessicode/elementaryos-essentials/master/kit.sh).
 
 ## Kit
-1. [System monitor](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#1-system-monitor)
-2. [Office suite](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#2-office-suite)
-3. [System and disk cleaner](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#3-system-and-disk-cleaner)
-4. [CD/DVD burner](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#4-cddvd-burner)
-5. [Disk manager](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#5-disk-manager)
-6. [Virtual drive emulator](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#6-virtual-drive-emulator)
-7. [Graphic editor](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#7-graphic-editor)
-8. [Video editor](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#8-video-editor)
-9. [Torrent client](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#9-torrent-client)
-10. [Backup](https://github.com/diessicode/elementaryos-essentials/blob/master/README.md#10-backup)
+1. [System monitor](https://github.com/diessica/elementaryos-essentials/blob/master/README.md#1-system-monitor)
+2. [Office suite](https://github.com/ddiessica/elementaryos-essentials/blob/master/README.md#2-office-suite)
+3. [System and disk cleaner](https://github.com/diessica/elementaryos-essentials/blob/master/README.md#3-system-and-disk-cleaner)
+4. [CD/DVD burner](https://github.com/diessica/elementaryos-essentials/blob/master/README.md#4-cddvd-burner)
+5. [Disk manager](https://github.com/diessica/elementaryos-essentials/blob/master/README.md#5-disk-manager)
+6. [Virtual drive emulator](https://github.com/diessica/elementaryos-essentials/blob/master/README.md#6-virtual-drive-emulator)
+7. [Graphic editor](https://github.com/diessica/elementaryos-essentials/blob/master/README.md#7-graphic-editor)
+8. [Video editor](https://github.com/diessica/elementaryos-essentials/blob/master/README.md#8-video-editor)
+9. [Torrent client](https://github.com/diessica/elementaryos-essentials/blob/master/README.md#9-torrent-client)
+10. [Backup](https://github.com/diessica/elementaryos-essentials/blob/master/README.md#10-backup)
 
 ---
 
