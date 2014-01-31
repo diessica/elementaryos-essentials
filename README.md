@@ -1,5 +1,7 @@
 # Elementary OS essentials
 
+![Elementary OS softwares kit](http://i.imgur.com/moyUDfb.gif)
+
 A kit of essential tools for users who want an easy and objective experience with Elementary OS - and other Ubuntu-based distros. Useful for those who are migrating from Windows to Elementary or wants to migrate someone. :-) 
 
 (All software recommended here have a installation guide **via Terminal**, for objectivity. However, if you want, [most of them] is also available in **Software Center**.)
