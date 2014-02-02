@@ -11,7 +11,7 @@ echo -e "Setup kit for Ubuntu-based distros, especially Elementary OS.\nYou choo
 printf "%*s" "$width" |tr " " "-"
 
 # Prompts the user for the package manager
-read -p "What package manager do you use? (E.g. ${bold}apt-get${normal}, ${bold}aptitude${normal}) | " packageInstaller
+read -p "Which package manager do you use? (E.g. ${bold}apt-get${normal}, ${bold}aptitude${normal}) | " packageInstaller
 printf "%*s" "$width" |tr " " "-"
 
 ## Install packages and their dependencies or not ##
