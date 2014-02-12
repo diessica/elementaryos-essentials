@@ -4,7 +4,7 @@
 
 A kit of essential tools for users who want an easy and objective experience with Elementary OS - and other Ubuntu-based distros. Useful for those who are migrating from Windows to Elementary or wants to migrate someone. :-) 
 
-(All software recommended here have a installation guide **via Terminal**, for objectivity. However, if you want, [most of them] is also available in **Software Center**.)
+(All software recommended here have a installation guide **via Terminal** using **apt-get** package manager, for objectivity. However, if you want, [most of them] is also available in **Software Center**.)
 
 ## Language
 * [Português](https://github.com/diessica/elementaryos-essentials/blob/master/translations/pt-br/README.md)
