@@ -1,8 +1,5 @@
 #!/bin/bash
 
-## Ask for su permission ##
-sudo -v
-
 bold=$(tput bold; tput smul)
 normal=$(tput sgr0)
 width=$(tput cols)
@@ -30,7 +27,7 @@ installSoftware() {
       # No dependencies
       then
         # Install the package
-        "$packageInstaller" install "$2"
+        sudo "$packageInstaller" install "$2"
         break
 
       # Has dependencies
@@ -39,9 +36,9 @@ installSoftware() {
         # Install dependencies
         "$3"
         # Update repositories
-        "$packageInstaller" update
+        sudo "$packageInstaller" update
         # Install package
-        "$packageInstaller" install "$2"
+        sudo "$packageInstaller" install "$2"
         break
       fi;;
     # If do not install...
@@ -56,7 +53,7 @@ installSoftware() {
 
 # Packages to be installed: name, package, dependencies (if any)
 IFS="|"
-for x in "Gnome System Monitor|gnome-system-monitor" "Libre Office|libreoffice|add-apt-repository ppa:libreoffice/ppa" "BleachBit|bleachbit" "Brasero|brasero|add-apt-repository ppa:renbag/ppa" "Disks|gnome-disk-utility" "AcetoneISO|AcetoneISO-6.7.deb|'$packageInstaller' install kommander p7zip" "PiTiVi|pitivi" "Deluge|deluge"
+for x in "Gnome System Monitor|gnome-system-monitor" "Libre Office|libreoffice|sudo add-apt-repository ppa:libreoffice/ppa" "BleachBit|bleachbit" "Brasero|brasero|sudo add-apt-repository ppa:renbag/ppa" "Disks|gnome-disk-utility" "AcetoneISO|AcetoneISO-6.7.deb|sudo '$packageInstaller' install kommander p7zip" "PiTiVi|pitivi" "Deluge|deluge"
 do
   set -- "$x"
   installSoftware $@
