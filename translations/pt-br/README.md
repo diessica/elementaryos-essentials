@@ -17,7 +17,7 @@ Um kit das ferramentas essenciais para usuários que buscam uma experiência fá
 
 ###### INSTALAR
 Com o comando `cd` (geralmente), vá até a página onde `kit.sh` está. Depois, execute os seguintes comandos:
-
+s
 ```bash
 chmod +x kit.sh       # Altera as permissões de acesso
 sudo ./kit.sh         # Executa o script para instalar todos os pacotes
@@ -41,15 +41,11 @@ sudo ./kit.sh         # Executa o script para instalar todos os pacotes
 ## 1. Monitor do sistema e gerenciador de tarefas
 **GNOME System Monitor** é totalmente essencial para o gerenciamento das tarefas do sistema operacional.
 
-![System Monitor in action](http://screencloud.net/img/screenshots/07804f1e8ec0aece79f8c4026caba171.png)
-
 ### Instalação
 1. `sudo apt-get install gnome-system-monitor`
 
 ## 2. Suíte de escritório
 **Libre Office** é uma suite de escritório para uso pessoal ou profissional disponível em diversas linguagens.
-
-![Libre Office 3](http://screencloud.net//img/screenshots/96a09927db99b0cdebc3b15a7735f387.png)
 
 ### Instalação
 #### Terminal
@@ -66,14 +62,11 @@ sudo ./kit.sh         # Executa o script para instalar todos os pacotes
 ## 3. Limpeza do sistema e disco
 > "**BleachBit** quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and discard junk you didn't know was there." ([Source](http://bleachbit.sourceforge.net/))
 
-![BleachBit em ação](http://screencloud.net//img/screenshots/6da0dbdf66f5d471723c131b4763210c.png)
-
 ### Instalação
 1. `sudo apt-get install bleachbit`
 
 ## 4. Gravação de CD/DVD
 **Brasero** é a solução mais completa e popular para gravação de discos entre os usuários Linux.
-![Brasero](http://screencloud.net/img/screenshots/bc1f60cfba16cbabc6813d532522c125.png)
 
 ### Instalação
 1. `sudo add-apt-repository ppa:renbag/ppa`
@@ -82,7 +75,6 @@ sudo ./kit.sh         # Executa o script para instalar todos os pacotes
 
 ## 5. Gerenciamento do disco
 **Disks**
-![Disks showing data](http://screencloud.net/img/screenshots/ed6538b6aeda987de8cac06760198ab1.png)
 
 ### Instalação
 1. `sudo apt-get install gnome-disk-utility`
@@ -96,7 +88,6 @@ sudo ./kit.sh         # Executa o script para instalar todos os pacotes
 
 ## 7. Editor de imagens
 **GIMP**
-![GIMP in action](http://screencloud.net/img/screenshots/e1fe5f55de9847b050eae2696684409b.png)
 
 ### Installação
 1. `sudo add-apt-repository ppa:otto-kesselgulasch/gimp`
@@ -105,7 +96,6 @@ sudo ./kit.sh         # Executa o script para instalar todos os pacotes
 
 ## 8. Editor de vídeos
 **PiTiVi**
-![PiTiVi editing a project](http://screencloud.net/img/screenshots/5767da0992f9aded922febd026f0add9.png)
 
 ### Installation
 1. `sudo apt-get install pitivi`
@@ -115,7 +105,6 @@ sudo ./kit.sh         # Executa o script para instalar todos os pacotes
 
 ## 9. Cliente Torrent
 **Deluge**
-![Deluge downloading](http://screencloud.net/img/screenshots/00e941b41e8ee9cae44192ad7a13d2bf.png)
 
 ### Instalação
 1. `sudo apt-get install deluge`
@@ -127,7 +116,6 @@ sudo ./kit.sh         # Executa o script para instalar todos os pacotes
 ## 10. Backup
 **Deja-Dup** é objetivo, mas muito completo. Quanto aos recursos, pode-se destacar a realização de backups locais ou remotos, o agendamento de backups e a compressão e encriptação de dados. 
 
-![Deja-Dup in action](http://screencloud.net//img/screenshots/664345747c2c059882bf7b00ee185500.png)
 ### Installation
 1. `sudo apt-get install deja-dup`
 
