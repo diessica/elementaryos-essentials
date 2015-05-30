@@ -2,9 +2,9 @@
 
 ![Elementary OS softwares kit](http://i.imgur.com/moyUDfb.gif)
 
-A kit of essential tools for users who want an easy and objective experience with Elementary OS - and other Ubuntu-based distros. Useful for those who are migrating from Windows to Elementary or wants to migrate someone. :-) 
+A kit of essential tools for users who want an easy and objective experience with Elementary OS - and other Ubuntu-based distros. Useful for those who are migrating from Windows to Elementary or want to migrate someone. :-) 
 
-(All software recommended here have a installation guide **via Terminal** using **apt-get** package manager, for objectivity. However, if you want, [most of them] is also available in **Software Center**.)
+(All software recommended here got a installation guide **via Terminal** through **apt-get** package manager, for objectivity. However, if you want, [most of them] are also available in **Software Center**.)
 
 ## Language
 * [Português](https://github.com/diessica/elementaryos-essentials/blob/master/translations/pt-br/README.md)
@@ -18,7 +18,7 @@ A kit of essential tools for users who want an easy and objective experience wit
 **git** → `git clone git://github.com/diessica/elementaryos-essentials.git`
 
 ###### INSTALLs
-With `cd` command (in general), go to the folder where `kit.sh` is. After that, run the following commands:
+Through `cd` command (in general), go to the folder where `kit.sh` is. Then, run the following commands:
 
 ```bash
 chmod +x kit.sh       # Change the access permissions
@@ -48,7 +48,7 @@ sudo ./kit.sh         # Run the script to install packages
 1. `sudo apt-get install gnome-system-monitor`
 
 ## 2. Office suite
-**Libre Office** is a office suite (text, spreadsheet, presentation, drawing, database, formula) for personal or professional use available in many languages.
+**Libre Office** is a office suite (text, spreadsheet, presentation, drawing, database, formula) for personal or professional use, available in many languages.
 
 ### Installation
 #### Terminal
@@ -128,10 +128,12 @@ sudo ./kit.sh         # Run the script to install packages
 
 ---
 
-## Installation problems?
+## Installation issues?
 
 1. `sudo apt-get update` → Update the **package list**.
 2.  `sudo apt-get dist-upgrade` → Upgrade your **operational system**.
+
+Or [report](https://github.com/diessica/elementaryos-essentials/issues) ;-)
 
 ## Freedom thanks you!
 Thanks for contributing to free software. **GNU/Linux** is really awesome!
