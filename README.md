@@ -137,3 +137,11 @@ Or [report](https://github.com/diessica/elementaryos-essentials/issues) ;-)
 
 ## Freedom thanks you!
 Thanks for contributing to free software. **GNU/Linux** is really awesome!
+
+---
+
+###### LICENSE
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Diéssica Gurskas](http://diessi.ca) has waived all copyright and related or neighboring rights to this work.
