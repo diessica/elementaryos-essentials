@@ -130,3 +130,11 @@ sudo ./kit.sh         # Executa o script para instalar todos os pacotes
 
 ## A liberdade agradece!
 A comunidade agradece por contribuir ao software livre. **GNU/Linux** é realmente demais!
+
+---
+
+###### LICENÇA
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Diéssica Gurskas](http://diessi.ca) has waived all copyright and related or neighboring rights to this work.
