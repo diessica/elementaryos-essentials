@@ -1,4 +1,4 @@
-# Elementary OS: kit essencial
+# Elementary OS: essenciais
 
 Um kit das ferramentas essenciais para usuários que buscam uma experiência fácil e objetiva com o Elementary OS - e outras distros baseadas no Ubuntu. Útil àqueles que estão migrando do Windows para o Elementary ou desejam migrar alguém ao software livre. :-)
 
