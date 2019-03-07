@@ -13,7 +13,7 @@ A kit of essential tools for users who want an easy and objective experience wit
 ###### DOWNLOAD
 [Download the kit directly](https://github.com/diessica/elementaryos-essentials/archive/master.zip) and unzip, or download via **Terminal** using `curl` or `git`.
 
-**curl** → `curl -O https://raw.github.com/diessica/elementaryos-essentials/master/kit.sh`
+**curl** → `curl -O https://raw.githubusercontent.com/diessica/elementaryos-essentials/master/kit.sh`
 
 **git** → `git clone git://github.com/diessica/elementaryos-essentials.git`
 
@@ -73,9 +73,7 @@ sudo ./kit.sh         # Run the script to install packages
 **Brasero** is the most complete and popular solution for burning discs among Linux users. 
 
 ### Installation
-1. `sudo add-apt-repository ppa:renbag/ppa`
-2. `sudo apt-get update`
-3. `sudo apt-get install brasero`
+1. `sudo apt-get install brasero`
 
 ## 5. Disk manager
 **Disks**
@@ -87,16 +85,13 @@ sudo ./kit.sh         # Run the script to install packages
 **AcetoneISO**
 
 ### Installation
-1. `sudo apt-get install kommander p7zip` - **kommander** will be installed additionally. 
-2. `sudo apt-get install AcetoneISO-6.7.deb`
+1. `sudo apt-get install acetoneiso`
 
 ## 7. Graphic editor
 **GIMP**
 
 ### Installation
-1. `sudo add-apt-repository ppa:otto-kesselgulasch/gimp`
-2. `sudo apt-get update`
-3. `sudo apt-get install gimp`
+1. `sudo apt-get install gimp`
 
 ## 8. Video editor
 **PiTiVi**
